@@ -1,5 +1,5 @@
 # machine-learning
-##机器学习
+## 机器学习
 2018年1月
 
 
@@ -19,3 +19,8 @@ classCount.items()
 `所以对书中部分代码进行了修改。`
 
 另外增加了一些自己写的测试程序。
+
+## 项目环境
+- python 3.6
+- pycharm
+- numpy, matplotlib
